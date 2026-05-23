@@ -43,6 +43,8 @@ Key Insights
 Dashboard Screenshot
 ![Dashboard Screenshot1](Samsung_Dashboard.png)
 
+See on Linkedin :- https://www.linkedin.com/posts/uday-kakad-045976322_excel-dashboard-dataanalytics-activity-7459969230017470464-vjb1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGoK7UBdOtGb27rS8_rCE-uogb9uftbs7A
+
 GitHub README Description
 
 Developed an interactive Samsung Sales Dashboard in Power BI to analyze revenue, market share, 5G subscribers, and regional sales performance. The dashboard includes dynamic filters, KPI cards, trend analysis, and product-level insights to support business decision-making.
